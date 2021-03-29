@@ -37,3 +37,5 @@ If you have found any bug, feel free to report is into [Issues](https://github.c
 -   Player statistics
 -   In fact everything is customizable
 -   And many more useful features..
+
+
